@@ -6,5 +6,8 @@ accountCity = "Jaipur"
 accountEmail = "abc@google.com"
 accountPassword = "2314"
 accountCity = "Ranchi"
+let accountState;
+var accountDate;
+//const accountCountry; Not allowed we need to assign a value to const variables
 console.log(accountId);
-console.table([accountId,accountEmail,accountPassword,accountCity])
+console.table([accountId,accountEmail,accountPassword,accountCity,accountState,accountDate])
