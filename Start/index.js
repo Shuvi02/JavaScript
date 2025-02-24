@@ -1,3 +1,5 @@
+//js is Dynamically Typed Language- need not specify DataTypes
+
 console.log("Hi");
 
 console.log(3+3); //6
